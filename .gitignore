@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+*secret*
+package-lock.json
+yarn.lock
